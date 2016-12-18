@@ -17,6 +17,13 @@ import org.bukkit.scheduler.BukkitRunnable;
  
 public class DraconBroadcast extends JavaPlugin {
 
+	/*
+	Plugin made by EvanOG | Evan Wright
+	Compiled with Java 8 
+	Free to edit/use for your own uses.
+	Originally made for DraconPVP
+	*/
+	
 	private LinkedList<Announcement> announcements;
 	private File cfile;
 	private FileConfiguration config;
